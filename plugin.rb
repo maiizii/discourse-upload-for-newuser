@@ -1,4 +1,4 @@
-# name: no-upload-for-newuser
+# name: discourse-upload-for-newuser
 # about: 禁止“小学生”组上传任何文件
 # version: 0.1
 # authors: MaiiZii
